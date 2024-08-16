@@ -1,4 +1,4 @@
-// This line is added in the conflict-branch
+// This line is added in the main-branch
 public class HelloWorld {
     public static void main(String[] args) {
         printWelcomeMessage();
