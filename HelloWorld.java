@@ -1,4 +1,4 @@
-// This line is added in the main-branch
+// This line is added in both branches with modifications
 public class HelloWorld {
     public static void main(String[] args) {
         printWelcomeMessage();
