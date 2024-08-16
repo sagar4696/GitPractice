@@ -5,7 +5,7 @@ public class HelloWorld {
     }
 
     public static void printWelcomeMessage() {
-        System.out.println("Hello, World!");
+        System.out.println("Hello from GitHub!");
         System.out.println("Welcome to learning Git!");
     }
 }
